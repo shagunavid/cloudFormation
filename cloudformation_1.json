@@ -96,7 +96,7 @@
             "MasterUserPassword" : "Password123",
             "DeletionProtection": false,
             "PubliclyAccessible": true,
-            "StorageEncrypted": true
+            "StorageEncrypted": false
           }
         },
         "MahRedshiftCluster": {
